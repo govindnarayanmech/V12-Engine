@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Feed Plant Design Project</title>
+
+<style>
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin:0;
+background:#f5f5f5;
+color:#333;
+}
+
+.container{
+width:90%;
+max-width:1100px;
+margin:auto;
+padding:40px;
+background:white;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+h1{
+color:#2c7a7b;
+}
+
+h2{
+margin-top:30px;
+color:#444;
+border-bottom:2px solid #eee;
+padding-bottom:5px;
+}
+
+ul{
+line-height:1.8;
+}
+
+.project-header{
+text-align:center;
+margin-bottom:40px;
+}
+
+.badge{
+display:inline-block;
+background:#2c7a7b;
+color:white;
+padding:6px 12px;
+border-radius:5px;
+margin:5px;
+font-size:14px;
+}
+
+.section{
+margin-top:25px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="project-header">
+
+<h1>Design of 5 TPH Semi-Automatic Feed Plant</h1>
+
+<p><strong>Author:</strong> Govind Narayan</p>
+<p><strong>Company:</strong> SG Global Solutions</p>
+
+<span class="badge">SolidWorks</span>
+<span class="badge">AutoCAD</span>
+<span class="badge">Plant Design</span>
+<span class="badge">Mechanical Engineering</span>
+
+</div>
+
+<div class="section">
+
+<h2>Project Overview</h2>
+
+<p>
+This project focuses on the engineering design and planning of a 
+<strong>5 Ton Per Hour (TPH) semi-automatic batching cattle and poultry feed plant.</strong>
+The design includes process flow development, plant layout planning, 
+equipment selection, and material handling system design.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Project Objectives</h2>
+
+<ul>
+
+<li>Design a 5 TPH feed manufacturing plant</li>
+<li>Develop process flow diagram (PFD)</li>
+<li>Create industrial plant layout</li>
+<li>Select machinery and equipment</li>
+<li>Perform material flow analysis</li>
+<li>Develop 3D models using SolidWorks</li>
+
+</ul>
+
+</div>
+
+<div class="section">
+
+<h2>Feed Manufacturing Process</h2>
+
+<p>
+The feed manufacturing process includes multiple stages to convert raw materials 
+into nutritionally balanced animal feed.
+</p>
+
+<ul>
+
+<li>Raw Material Intake</li>
+<li>Weighing Hopper</li>
+<li>Bucket Elevator</li>
+<li>Magnet Separator</li>
+<li>Hammer Mill (Grinding)</li>
+<li>Feed Mixer</li>
+<li>Pellet Mill</li>
+<li>Cooler</li>
+<li>Crumbler</li>
+<li>Screener</li>
+<li>Packing</li>
+
+</ul>
+
+</div>
+
+<div class="section">
+
+<h2>Equipment Used</h2>
+
+<ul>
+
+<li>Hammer Mill – 5 TPH</li>
+<li>Ribbon Mixer – 1 Ton per Batch</li>
+<li>Pellet Mill – 5 TPH</li>
+<li>Counter Flow Cooler</li>
+<li>Bucket Elevator</li>
+<li>Screw Conveyor</li>
+
+</ul>
+
+</div>
+
+<div class="section">
+
+<h2>Plant Capacity</h2>
+
+<ul>
+
+<li>Production Capacity: 5 Ton Per Hour</li>
+<li>Batch Size: 1 Ton</li>
+<li>Batches per Hour: 5</li>
+<li>Operating Time: 8 – 16 Hours</li>
+
+</ul>
+
+</div>
+
+<div class="section">
+
+<h2>Power Requirement</h2>
+
+<ul>
+
+<li>Hammer Mill – 75 HP</li>
+<li>Pellet Mill – 150 HP</li>
+<li>Mixer – 20 HP</li>
+<li>Cooler – 10 HP</li>
+<li>Conveyors – 15 HP</li>
+
+</ul>
+
+<p><strong>Total Power Requirement: ~270 HP</strong></p>
+
+</div>
+
+<div class="section">
+
+<h2>Project Cost Estimate</h2>
+
+<ul>
+
+<li>Machinery: ₹80,00,000</li>
+<li>Civil Construction: ₹30,00,000</li>
+<li>Electrical Installation: ₹10,00,000</li>
+<li>Installation: ₹5,00,000</li>
+
+</ul>
+
+<p><strong>Total Estimated Cost: ₹1.25 Crore</strong></p>
+
+</div>
+
+<div class="section">
+
+<h2>Tools & Software</h2>
+
+<ul>
+
+<li>SolidWorks – 3D Equipment Modeling</li>
+<li>AutoCAD – Process Flow Diagram & Plant Layout</li>
+
+</ul>
+
+</div>
+
+<div class="section">
+
+<h2>Conclusion</h2>
+
+<p>
+The project successfully demonstrates the design of a semi-automatic 
+feed manufacturing plant with optimized material handling and efficient production flow. 
+The use of CAD tools helps improve engineering visualization and industrial design accuracy.
+</p>
+
+</div>
+
+</div>
+
+</body>
+</html>
